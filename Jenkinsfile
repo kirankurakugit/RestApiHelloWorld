@@ -10,7 +10,7 @@ pipeline{
 
       git 'https://github.com/kirankurakugit/RestApiHelloWorld.git'
 
-     echo "checkoutcode from scm"
+     echo "checkoutcode from scm is successfull"
     }
     }
     
