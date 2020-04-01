@@ -23,7 +23,7 @@ Access ```http://localhost:8080/spring3```
 
 
 Dockerfile
-----------
+-----------
 To run the application in Container ,so installed java,git and maven
 
 Jenkins
