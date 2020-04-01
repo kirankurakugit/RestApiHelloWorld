@@ -1,4 +1,4 @@
-Maven - RestApi Spring MVC Hello World Application Exaample
+Maven - RestApi Spring MVC Hello World Application Example
 ===========================================================
 Template for Spring 3 MVC + JSP view + XML configuration, using Maven build tool.
 
